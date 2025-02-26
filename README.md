@@ -4,16 +4,22 @@
 
 ## First Steps:
 
-For installing everything for using VR headset on Windows 
+For installing everything for using VR headset on Windows and your Smarphone. 
 
-Meta Quest 3 glasses will need two softwares for installing and casting things.
+## Smartphone Apps
 
 ### **Install Meta Horizon App** 
 Here we will introduce our credentials
 
   - **Sign in:** (Same account for Facebook and Meta Oculus)
     - mmlab2024vr@gmail.com
-    - `******` 
+    - `******`
+  - When signing in, the app will ask you to introduce a code, that will be sent to:  
+    - The mobile number that was set when the account was created.  
+    - The Authenticator App you need to set up.
+>[!NOTE]
+>Since the account already exists you can choose between them. First, the recommendation is to choose the **Mobile number** since you did not set up the [Authenticator](#install-duo-mobile-for-authenticator) yet.
+  - If glasses are already connected to the same account, but in a different device (Not a new headset), is not needed to connect the glasses again. The Meta Horizon App will recognize them.
 
 ### **Install Duo Mobile for authenticator.** 
 
@@ -23,28 +29,43 @@ For registering a new platform here, we need to have installed already the Meta 
 
 - Password and Security -> Two-step authentication.
 
-- Meta Account selection
+- **Meta Account** selection
 - Authentication App
 - Follow the steps to Duo Mobile App
 	- Read the QR code with the new device
 	- New password for the Duo Mobile Meta Authenticator (This is just for the autenthicator)
 	- Next steps inside Meta Horizon App
 
+## PC softwares
 <a id="meta-quest-link"></a>
 ### [Meta Quest Link](https://www.meta.com/help/quest/1517439565442928/?srsltid=AfmBOooMemUNn7K3bqiH5npCaSyYkRbHkuQEm4DbkLM2XrjGhH0r9AJf): Following default installation. This will allow us to connect the glasses to the PC via Air Link or Wired Link, in that case we need the cable. This is needed to run the Nanover App through PC-VR
-	
+
+- Scroll down to find the **Download App** button 
 - Sign in: Through email (not facebook, not instagram)
   - mmlab2024vr@gmail.com
   - `*******`
 
   - Follow the steps for sign in -> Need the authenticator App
   - Install the VR software (default settings)
+  - Two different ways to connect the headset to the app
+    - **AirLink**(preferred):
+      - Inside the glasses, navigate through the **QuickMenu** by clicking at the bottom tool bar  
+    - Wired
   - Once connected to the PC you can also cast your glasses
+ 
+>[!IMPORTANT]
+>To display the Meta Quest Link properly it is necessary to go inside the software Meta Quest Link, and set OpenXR Runtime as default for MetaQuest
+>**Settings**->**General**->**OpenXR Runtime** 
 
 
 ### [SideQuest](https://sidequestvr.com/):
 
-Advanced Installer of SideQuest, following default installation. This software will allow us to install APK files third-party developed (Like Cyclarity or CoronaVRus Coaster). Also, we can "overclock" the glases to improve performance (Caution with this)
+This software will allow us to install APK files third-party developed (Like *Cyclarity* or *CoronaVRus Coaster*). Also, we can "overclock" the glases to improve performance (Caution with this)
+
+- Once on the webpage look for **Get SideQuest** on the left
+
+- Advanced Installer of SideQuest, following default installation. 
+
 
 #### **For installing APK:**
 - _Connect the glasses through cable to the PC._ It is needed to have the charge cable included (Type C-Type C) or the Quest Link Cable (Buying it, not needed the oficial one) but is Type C-Type A USB.
