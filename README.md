@@ -1,5 +1,8 @@
 # VRDR
 
+![Foto-IPG-1-2048x1125](https://github.com/user-attachments/assets/40b123f6-28ae-49b5-80b5-d5e186c0daf6)
+
+
 # Installation protocol VR
 
 ## First Steps:
