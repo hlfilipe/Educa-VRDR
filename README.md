@@ -42,7 +42,7 @@ For registering a new platform here, we need to have installed already the Meta 
 - Password and Security -> Two-step authentication.
 
 - **Meta Account** selection
-- Authentication App
+- Authentication App: It will display a QR code that you will use in the next steps.
 - Follow the steps to Duo Mobile App
 	- Read the QR code with the new device
 	- New password for the Duo Mobile Meta Authenticator (This is just for the autenthicator)
