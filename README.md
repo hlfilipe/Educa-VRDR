@@ -3,7 +3,7 @@
 ![Foto-IPG-1-2048x1125](https://github.com/user-attachments/assets/40b123f6-28ae-49b5-80b5-d5e186c0daf6)
 
 
-# Installation protocol VR
+# Installation protocol VR :goggles:
 
 ## First Steps:
 
@@ -39,7 +39,7 @@ For registering a new platform here, we need to have installed already the Meta 
 	- New password for the Duo Mobile Meta Authenticator (This is just for the autenthicator)
 	- Next steps inside Meta Horizon App
 
-## PC softwares
+## PC softwares 💻
 <a id="meta-quest-link"></a>
 ### [Meta Quest Link](https://www.meta.com/help/quest/1517439565442928/?srsltid=AfmBOooMemUNn7K3bqiH5npCaSyYkRbHkuQEm4DbkLM2XrjGhH0r9AJf): Following default installation. This will allow us to connect the glasses to the PC via Air Link or Wired Link, in that case we need the cable. This is needed to run the Nanover App through PC-VR
 
@@ -105,7 +105,7 @@ Through you can cast too. Check [Meta Quest Link](#meta-quest-link) on the top
 ***************
 
 
-# Nanover
+# Nanover 🎮
 
    [Github Nanover](https://github.com/IRL2/nanover-server-py)
    
@@ -113,7 +113,7 @@ Through you can cast too. Check [Meta Quest Link](#meta-quest-link) on the top
 
 For installing and use Nanover. There are two ways to run it, through PC-VR or with standalone App (installing the APK). 
 
-First, we need to install [Anaconda Navigator](https://www.anaconda.com/download/success) and create the environment 
+First, we need to install [Anaconda Navigator](https://www.anaconda.com/download/success) 🐍 and create the environment 
 
 - Anaconda Navigator installation following the default installation settings.
 - Once Anaconda is installed, find *Anaconda Powershell Prompt* in your Windows
@@ -130,7 +130,7 @@ This environment will give us the tools that Nanover needs to run. Nanover will 
 >Follow the steps from here of the [documentation](https://irl2.github.io/nanover-docs/).
 
 
-## Running Nanover
+## Running Nanover 🏃
 
 PC-VR:
 
@@ -169,14 +169,14 @@ this will display on your headset the app (You need to be LINKED to your compute
 
 
 
-**MQ3 preparation:**
+**MQ3 preparation:** 🕶️ 
 
 1º Turn on the glasses.  
 2º You must be connected to the same WiFi network as the PC.  
 3º APK should be installed already. If not, check [For installing APK](#for-installing-apk) above.  
 
 
-**PC preparation:**
+**PC preparation:** 🖥️
 
 To run the files of Nanover, you need to download the repository from [GitHub](https://github.com/IRL2/nanover-server-py) to your computer:
 
