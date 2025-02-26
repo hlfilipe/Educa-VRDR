@@ -2,6 +2,15 @@
 
 ![Foto-IPG-1-2048x1125](https://github.com/user-attachments/assets/40b123f6-28ae-49b5-80b5-d5e186c0daf6)
 
+## Table of contents
+- [Installation](#installation-protocol-vr-goggles)
+  - [Smartphone Apps](#smartphone-apps)
+    - [Install Meta Horizon App](#install-meta-horizon-app)
+    - [Install Duo Mobile Authenticator](#install-duo-mobile-for-authenticator)
+  - [PC softwares](#pc-softwares-computer)
+    - [Meta Quest Link](#meta-quest-link)
+    - [SideQuest](#sidequest)
+- [Nanover](#nanover-video_game)
 
 # Installation protocol VR :goggles:
 
@@ -39,7 +48,7 @@ For registering a new platform here, we need to have installed already the Meta 
 	- New password for the Duo Mobile Meta Authenticator (This is just for the autenthicator)
 	- Next steps inside Meta Horizon App
 
-## PC softwares 💻
+## PC softwares :computer:
 <a id="meta-quest-link"></a>
 ### [Meta Quest Link](https://www.meta.com/help/quest/1517439565442928/?srsltid=AfmBOooMemUNn7K3bqiH5npCaSyYkRbHkuQEm4DbkLM2XrjGhH0r9AJf): Following default installation. This will allow us to connect the glasses to the PC via Air Link or Wired Link, in that case we need the cable. This is needed to run the Nanover App through PC-VR
 
@@ -105,7 +114,7 @@ Through you can cast too. Check [Meta Quest Link](#meta-quest-link) on the top
 ***************
 
 
-# Nanover 🎮
+# Nanover :video_game:
 
    [Github Nanover](https://github.com/IRL2/nanover-server-py)
    
@@ -130,7 +139,7 @@ This environment will give us the tools that Nanover needs to run. Nanover will 
 >Follow the steps from here of the [documentation](https://irl2.github.io/nanover-docs/).
 
 
-## Running Nanover 🏃
+## Running Nanover :running:
 
 PC-VR:
 
