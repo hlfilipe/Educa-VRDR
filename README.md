@@ -162,7 +162,7 @@ this will display on your headset the app (You need to be LINKED to your compute
 
 >[!IMPORTANT]
 >To display it properly it is necessary to go inside the software Meta Quest Link, and set OpenXR Runtime as default for MetaQuest
->**Settings**->**General**->**OpenXR Runtime** 
+>**Settings**➡️**General**➡️**OpenXR Runtime** 
 
 *************************
 
