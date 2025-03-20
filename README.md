@@ -187,14 +187,14 @@ this will display on your headset the app (You need to be LINKED to your compute
 
 **PC preparation:** 🖥️
 
-To run the files of Nanover, you need to download the repository from [GitHub](https://github.com/IRL2/nanover-server-py) to your computer:
+To run the files of Nanover, you need to download the repository from this repository to your computer:
 
 - Code
 - Download ZIP
 
 1º Search on tool bar: **Anaconda Powershell Prompt** and open it  
 2º run ```conda activate nanover```  
-3º Navigate through and open the _nanover-server-py_ folder    
+3º Navigate through and open the _VRDR-main_ folder    
 4º Inside **Anaconda Powershell Prompt** run:  
 ```python -m jupyterlab```  
 
